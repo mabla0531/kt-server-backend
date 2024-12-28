@@ -13,7 +13,7 @@ use ratatui::{
     layout::{Alignment, Constraint, Direction, Layout, Rect},
     style::Stylize,
     text::{Line, Span},
-    widgets::{block::Title, Block, Padding, Paragraph},
+    widgets::{Block, Padding, Paragraph},
     DefaultTerminal, Frame,
 };
 
